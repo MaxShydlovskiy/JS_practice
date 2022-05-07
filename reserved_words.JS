@@ -1,0 +1,15 @@
+/*break           delete          for           let           super           void
+
+  case            do              function      new           switch          while
+
+  catch           else            if            package       this            with
+
+  class           enum            implements    private       throw           yield
+
+  const           export          import        protected     true            continue 
+
+  extends         in              public        try           debugger        false 
+
+  instanceof      return          typeof        default       finally         interface 
+  
+  static          var*/
